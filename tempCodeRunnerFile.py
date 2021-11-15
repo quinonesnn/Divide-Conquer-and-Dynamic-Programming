@@ -1,0 +1,1 @@
+timeDict[num] = str(end-start)[5:]
